@@ -4,7 +4,7 @@ body {
     background-size: cover;
 
     overflow: hidden;   /* запрещает прокручивание страницы*/
-    touch-action: none; 
+    touch-action: none;  /* убирает прокрутку экрана с помощью свайпов*/
     height: 100vh;
 }
     .canvas {
