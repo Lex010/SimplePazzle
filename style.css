@@ -4,6 +4,7 @@ body {
     background-size: cover;
 
     overflow: hidden;   /* запрещает прокручивание страницы*/
+    touch-action: none;
     height: 100vh;
 }
     .canvas {
