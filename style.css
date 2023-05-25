@@ -3,7 +3,8 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
 
-    height: 95vh;
+    overflow: hidden;   /* запрещает прокручивание страницы*/
+    height: 100vh;
 }
     .canvas {
         display: flex;
